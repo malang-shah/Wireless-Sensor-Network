@@ -1,2 +1,1 @@
-# Wireless-Sensor-Network
-This repository contains sample source code for programming wireless sensor nodes, creating network and test scripts. These programs are only for educational use.   
+Sample source codes contains programs for radio initialise, communication between two nodes, creating network of four nodes and script for interpretation of sensor data
